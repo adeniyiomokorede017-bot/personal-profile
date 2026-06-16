@@ -10,50 +10,64 @@
 padding:10px 0px;
 box-shadow: 0px 10px 5px rgba(0, 0, 0, 0.2);
 }
+.my-pic-container{display:flex;
+justify-content: center;}
+
 .my-pic{width:150px;
     height:160px;
 margin-top:40px;
 border-radius:100px;
 object-fit:cover;
 object-position: center;
-margin-bottom:0px;}
+margin-bottom:0px;
+
+}
 
 .name-p{font-family:verdana;
 font-size:large;
 margin-top:10px;
-font-weight:bold;}
+font-weight:bold;
+text-align: center;}
 
 .student-p{font-family:Arial;
 font-size:small;
 margin-top:10px;
-margin-bottom:0px;}
+margin-bottom:0px;
+text-align: center;}
 
 .braider-p{font-family:Arial;
 font-size:small;
 margin-top:7px;
-margin-bottom:0px;}
+margin-bottom:0px;
+text-align: center;}
 
 .web-p{font-family:Arial;
 font-size:small;
-margin-top:7px;}
+margin-top:7px;
+text-align: center;}
 
 .about-button{width:60%;
+    display:block;
 text-align:center;
 padding:10px 0px;
 background-color:purple;
 color:black;
-
+text-align: center;
 border:none;
 font-weight:bold;
-margin-top:30px;
-margin-bottom:10px;
-border-radius:15px}
+font-size: medium;
+margin:0 auto;
+border-radius:15px;
+margin-top: 30px;}
 
 .a-p{width:50%;
-line-height:1.5;}
+    display: block;
+    margin:0 auto;
+line-height:1.5;
+margin-top: 40px;}
 
 .goal-button{width:60%;
-    margin-top:10px;
+    display: block;
     padding:10px 0px;
     background-color:purple;
     border:none;
@@ -61,27 +75,53 @@ line-height:1.5;}
     font-weight: bold;
     border-radius: 15px;
     color:black;
+    text-align: center;
+    margin:0 auto;
+    margin-top: 40px;
+    margin-bottom: 30px;
 }
 
 .learn-p{font-family:Arial;
-font-size:small;}
+font-size:small;
+text-align: center;}
 
 .build-p{font-family:Arial;
-font-size:small;}
+font-size:small;
+text-align: center;}
 
 .improve-p{font-family:Arial;
-font-size:small;}
+font-size:small;
+text-align: center;}
 
 .work-p{font-family:Arial;
-font-size:small;}
+font-size:small;
+text-align: center;}
 
 .contact-button{background-color: purple;
 border:none;
+display: block;
 padding:8px 15px;
 border-radius: 13px;
-font-weight: bold;}
+font-weight: bold;
+text-align: center;
+margin:0 auto;
+margin-top: 30px;
+margin-bottom: 30px;}
 
-.tele{color:red
+.phone-p{margin:0 auto;
+    text-align: center;
+display: block;}
+.mail-p{margin:0 auto;
+    text-align: center;
+display: block;}
+
+.tele{color:red;
 }
 
 .email-p{color: blue;}
+
+.k-p{font-weight: bolder;
+font-size: 50px;
+text-align: end;
+font-style: italic;
+}
