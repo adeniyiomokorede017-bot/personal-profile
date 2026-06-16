@@ -64,7 +64,8 @@ margin-top: 30px;}
     display: block;
     margin:0 auto;
 line-height:1.5;
-margin-top: 40px;}
+margin-top: 40px;
+font-size: large;}
 
 .goal-button{width:60%;
     display: block;
@@ -98,6 +99,7 @@ font-size:small;
 text-align: center;}
 
 .contact-button{background-color: purple;
+    color:black;
 border:none;
 display: block;
 padding:8px 15px;
@@ -109,6 +111,7 @@ margin-top: 30px;
 margin-bottom: 30px;}
 
 .phone-p{margin:0 auto;
+    color:black;
     text-align: center;
 display: block;}
 .mail-p{margin:0 auto;
@@ -121,7 +124,7 @@ display: block;}
 .email-p{color: blue;}
 
 .k-p{font-weight: bolder;
-font-size: 50px;
+font-size:35px;
 text-align: end;
 font-style: italic;
 }
