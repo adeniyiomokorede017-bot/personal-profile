@@ -1,0 +1,85 @@
+.my-button
+            {width:100%;
+                text-align: center;
+            background-color:purple;
+        color:black;
+        font-weight:bold;
+        font-family:joker;
+    border:none;
+    font-size:large;
+padding:10px 0px;
+box-shadow: 0px 10px 5px rgba(0, 0, 0, 0.2);
+}
+.my-pic{width:150px;
+    height:160px;
+margin-top:40px;
+border-radius:100px;
+object-fit:cover;
+object-position: center;
+margin-bottom:0px;}
+
+.name-p{font-family:verdana;
+font-size:large;
+margin-top:10px;
+font-weight:bold;}
+
+.student-p{font-family:Arial;
+font-size:small;
+margin-top:10px;
+margin-bottom:0px;}
+
+.braider-p{font-family:Arial;
+font-size:small;
+margin-top:7px;
+margin-bottom:0px;}
+
+.web-p{font-family:Arial;
+font-size:small;
+margin-top:7px;}
+
+.about-button{width:60%;
+text-align:center;
+padding:10px 0px;
+background-color:purple;
+
+border:none;
+font-weight:bold;
+margin-top:30px;
+margin-bottom:10px;
+border-radius:15px}
+
+.a-p{width:50%;
+line-height:1.5;}
+
+.goal-button{width:60%;
+    margin-top:10px;
+    padding:10px 0px;
+    background-color:purple;
+    border:none;
+    text-align:center;
+    font-weight: bold;
+    border-radius: 15px;
+}
+
+.learn-p{font-family:Arial;
+font-size:small;}
+
+.build-p{font-family:Arial;
+font-size:small;}
+
+.improve-p{font-family:Arial;
+font-size:small;}
+
+.work-p{font-family:Arial;
+font-size:small;}
+
+.contact-button{background-color: purple;
+border:none;
+padding:8px 15px;
+border-radius: 13px;
+font-weight: bold;}
+
+.tele{color:red
+}
+
+.email-p{color: blue;}
